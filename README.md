@@ -1,2 +1,3 @@
-# tezos-direct-auth-using-torus
-tezos-direct-auth-using-torus
+# direct-auth-using-torus
+
+direct-auth-using-torus
